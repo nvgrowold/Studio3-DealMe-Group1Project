@@ -6,4 +6,4 @@ Michell(Specialist/Developer)<br>
 Harikash (Stakeholder/Developer)<br>
 Shilong(ui/UX Designer/Tester)<br>
 
-Tools: React, Javascript, mySQL, Github, Trello<br>
+Tools: React, Javascript, VS Code, mySQL, Github, Trello<br>
