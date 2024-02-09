@@ -1,7 +1,7 @@
 # Studio3-Group1Project
 
 #Team Profile: 
-Liman (Scrum Master/Developer/Tester)
+#Liman (Scrum Master/Developer/Tester)
 Michell(Specialist/Developer)
 Harikash (Stakeholder/Developer)
 Shilong(ui/UX Designer/Tester)
