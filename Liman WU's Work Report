@@ -1,8 +1,28 @@
+*******************************************************************************************************************************************************
 16/02/2024
-Overview: Finalised more detailed requirements with client (Tariq Sir), set up Trello board and Github repository
-Web App Name ideas: TradeYou, TradeHere, TradeIt, TradeTrade, TradeTrove, MatchTrade, DealMe
-Merchant user:Liman, Buyer user:Mitchell, Admin user:Harikash, Guest user: leave for later
-Working on business requirements and system requirements of Merchant user and forming user stories based on that.
-Drafting basic wireframe of Merchant user
-Self learning React js as much as possible.
-Finding out database solution.
+Overview
+The day's primary focus was on advancing the development of our upcoming web application, 
+provisionally named with several contenders: TradeYou, TradeHere, TradeIt, TradeTrade, TradeTrove, MatchTrade, and DealMe. 
+The session involved finalizing more detailed requirements through a productive dialogue with our esteemed client, Tariq Sir. To streamline our workflow and enhance collaboration, we established a Trello board for task management and a GitHub repository for version control and code storage.
+
+User Roles Definition
+We defined the core user roles for our web application to tailor the experience to different needs and functionalities. The roles are as follows:
+Merchant User (Liman): Focuses on users offering goods or services through the platform.
+Buyer User (Mitchell): Targets users looking to purchase or trade for goods or services.
+Admin User (Harikash): For managing and overseeing platform operations.
+Guest User: A role to be detailed later, likely to accommodate users browsing the platform without registration.
+
+Progress on Business and System Requirements
+Merchant User Requirements
+A significant part of the day was dedicated to developing business and system requirements for the Merchant user role. We began forming user stories to guide the development process and ensure that we meet the specific needs of this user segment. These stories will help in designing features that are both intuitive and functional for merchants using our platform.
+
+Wireframe Drafting
+We initiated the drafting of a basic wireframe for the Merchant user interface. This wireframe will serve as a preliminary visual guide, laying out the essential components and user flow within the application for merchants. This step is crucial for visualizing the end-user experience and will be refined through feedback and further development.
+
+Technical Skill Enhancement and Solutions Exploration
+React JS Learning: In parallel to the project development efforts, team members dedicated time to self-learning React JS. This effort is aimed at sharpening our technical skills to implement the front-end development of our web application effectively.
+Database Solution: We initiated the exploration for a suitable database solution that can meet the needs of our application, considering factors such as scalability, reliability, and ease of integration.
+
+Conclusion
+Today marked a significant step forward in the development of our web application project. By finalizing detailed requirements with our client, setting up essential project management tools, defining user roles, and making headway on technical planning and skills enhancement, we have laid a solid foundation for the next stages of development. Moving forward, we will continue to refine our requirements, advance our technical expertise, and begin the implementation phase of our project.
+**********************************************************************************************************************************************************************
