@@ -6,13 +6,14 @@ provisionally named with several contenders: TradeYou, TradeHere, TradeIt, Trade
 The session involved finalizing more detailed requirements through a productive dialogue with our esteemed client, Tariq Sir. To streamline our workflow and enhance collaboration, we established a Trello board for task management and a GitHub repository for version control and code storage.
 
 User Roles Definition
-We defined the core user roles for our web application to tailor the experience to different needs and functionalities. The roles are as follows:
+We defined the core user roles for our web application to tailor the experience to different needs and functionalities. 
+The roles are as follows:
 Merchant User (Liman): Focuses on users offering goods or services through the platform.
 Buyer User (Mitchell): Targets users looking to purchase or trade for goods or services.
 Admin User (Harikash): For managing and overseeing platform operations.
 Guest User: A role to be detailed later, likely to accommodate users browsing the platform without registration.
 
-Progress on Business and System Requirements
+Working on Business and System Requirements
 Merchant User Requirements
 A significant part of the day was dedicated to developing business and system requirements for the Merchant user role. We began forming user stories to guide the development process and ensure that we meet the specific needs of this user segment. These stories will help in designing features that are both intuitive and functional for merchants using our platform.
 
