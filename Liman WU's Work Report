@@ -27,3 +27,231 @@ Database Solution: We initiated the exploration for a suitable database solution
 Conclusion
 Today marked a significant step forward in the development of our web application project. By finalizing detailed requirements with our client, setting up essential project management tools, defining user roles, and making headway on technical planning and skills enhancement, we have laid a solid foundation for the next stages of development. Moving forward, we will continue to refine our requirements, advance our technical expertise, and begin the implementation phase of our project.
 **********************************************************************************************************************************************************************
+22/02/2024
+To do list:
+1.	Define Sprints
+2.	Check out coding standard
+3.	Name ideas for the web app
+4.	Seller user’s: business requirements, system requirements, then form corresponding user stories
+Business Requirements:
+Sellers need the ability to list products or services for sale.
+They require tools for managing their listings, including updating prices, descriptions, and availability.
+Sellers need access to sales reports and analytics to track their performance.
+System Requirements:
+A dashboard for listing management.
+Integration with a payment gateway for receiving payments.
+Analytics tools for monitoring sales, views, and ratings.
+
+User Stories:
+As a seller, I want to easily list my products, so I can start selling quickly.
+As a seller, I want to view and manage my active listings, so I can keep my offers up to date.
+As a seller, I want to access sales reports, so I can make informed business decisions.
+
+Listing Creation and Management:
+As a seller, I want to bulk upload my products using a CSV file, so I can efficiently list multiple items at once.
+As a seller, I want to schedule when my listings go live, so I can plan my sales around peak shopping times or specific promotions.
+As a seller, I want to set different prices for different regions or customer groups, so I can maximize my sales strategy.
+
+Order and Inventory Management:
+As a seller, I want to receive instant notifications when my products are sold, so I can manage my inventory and fulfill orders promptly.
+As a seller, I want to easily print shipping labels and manage tracking numbers within the platform, so I can streamline the shipping process.
+As a seller, I want to set up automatic restocking notifications, so I never run out of popular items.
+
+Customer Interaction and Feedback:
+As a seller, I want to respond to customer reviews and questions directly on the product page, so I can improve customer satisfaction and engagement.
+As a seller, I want to offer discounts or coupons to repeat customers, so I can encourage loyalty and repeat business.
+As a seller, I want to view and analyze the demographics of my customers, so I can tailor my marketing strategies more effectively.
+
+Performance Analytics and Reporting:
+
+As a seller, I want to access detailed analytics on which of my products are performing the best, so I can adjust my inventory and marketing strategies accordingly.
+As a seller, I want to compare my sales performance over different periods, so I can identify trends and seasonality in my business.
+As a seller, I want to receive insights and recommendations on how to improve my listings and sales strategies, based on platform data.
+
+Security and Support:
+As a seller, I want to have a secure way to communicate with buyers to protect my privacy, so I feel safe conducting business on the platform.
+As a seller, I want to access 24/7 support for any issues that arise with my listings or account, so I can resolve problems quickly and keep my business running smoothly.
+Marketing and Visibility:
+
+As a seller, I want to feature my products on the homepage or in a highlighted section for increased visibility, so I can attract more potential buyers.
+As a seller, I want to participate in site-wide sales or promotions, so I can leverage increased traffic and drive more sales.
+
+5.	Detailed attribute for Merchant and Guest user
+Seller User Attributes
+Account Information:
+
+Username/ID
+Password (hashed for security)
+Email Address
+Contact Information (phone number, secondary email)
+Registered Business Name (if applicable)
+Tax Identification Number (TIN) or equivalent for business users
+Profile Information:
+
+Profile Picture or Logo
+Bio/Description of the seller or business
+Location (country, city)
+Average Response Time
+Seller Rating and Reviews
+Listing Details:
+
+Product/Service IDs
+Product Names
+Categories/Subcategories
+Descriptions
+Prices and Discount Options
+Stock Quantities
+Images and Videos
+Shipping Options (local, international, free shipping)
+Return and Exchange Policies
+Sales and Analytics:
+
+Total Sales (number and revenue)
+Views per Listing
+Conversion Rate (views to sales)
+Top-selling Products
+Customer Demographics (age, location, interests if available)
+Feedback and Reviews (with buyer IDs)
+Order Management:
+
+Order IDs
+Status (pending, shipped, delivered, returned)
+Tracking Information
+Buyer Information (for order processing, not stored permanently for privacy)
+Communication Logs (pertaining to transactions)
+Security and Preferences:
+
+Two-Factor Authentication (2FA) Options
+Notification Preferences (email, SMS, in-app)
+Account Privacy Settings
+Preferred Payment and Payout Methods
+Guest User Attributes
+Browsing Information:
+
+Session ID (for tracking browsing session)
+IP Address (for regional pricing, if applicable)
+Device and Browser Type
+Preferences:
+
+Viewed Listings (for session-based recommendations)
+Search Queries (stored temporarily for enhancing search functionality)
+Language and Currency Preferences
+Subscription Information (if opting for newsletters or alerts):
+
+Email Address (for sending newsletters or deal alerts)
+Subscription Preferences (types of deals interested in, frequency of emails)
+Engagement:
+
+Pages Visited (for analytics and improving user experience)
+Interaction with Listings (likes, saves for later, shares)
+Feedback Forms Submitted (if applicable, for improving guest experience)
+Security:
+
+Consent for Cookies and Tracking (in compliance with privacy regulations)
+CAPTCHA Challenges for Forms (to prevent spam and automated submissions)
+
+6.	Identify how Merchant and Guest users might interact with the website
+Seller Interactions
+Account Registration and Setup:
+
+Sellers start by registering an account, providing necessary business information, and setting up their profile, including contact details, a description of their business, and preferences.
+Listing Creation and Management:
+
+Once registered, sellers can create new listings for their products or services, including details like descriptions, prices, photos, and shipping options.
+They regularly update existing listings to adjust prices, stock quantities, and product details.
+Order and Inventory Management:
+
+Sellers monitor their sales dashboard for new orders, manage inventory levels, and update order statuses as they process shipments.
+They might use the platform to print shipping labels and provide tracking information to buyers.
+Customer Communication:
+
+Sellers respond to buyer inquiries and reviews directly on the platform, managing customer service and feedback to maintain a positive reputation.
+Analytics and Reporting:
+
+Sellers access their analytics dashboard to review sales data, customer engagement, and product performance to refine their sales strategies.
+Marketing and Promotions:
+
+They participate in site-wide promotions or create their discount codes and special offers to attract more customers.
+
+Guest Interactions
+Browsing and Searching:
+
+Guests visit the website to browse deals without the need to log in or create an account. They use search and filter options to find specific products or services of interest.
+Viewing Product Details:
+
+Guests click on listings to view detailed product information, including descriptions, photos, pricing, and seller information. They can also read reviews from other buyers.
+Newsletter Subscription:
+
+If interested, guests can subscribe to newsletters or alerts for special deals by providing their email address, without creating a full account.
+Contacting Sellers or Support:
+
+Guests may have the option to contact sellers for product inquiries through a form or chat feature that doesn't require login, or they might contact website support for general questions.
+Creating an Account:
+
+If a guest decides to make a purchase or wants to access additional features like saving favorites, they might proceed to create an account, transitioning from a guest to a registered buyer.
+Sharing and Social Interaction:
+
+Guests can share deals they find interesting on social media or with friends directly from the platform.
+
+
+7.	List out what data needed to support Merchant and Guest users
+
+Data Needed for Seller Users
+User Account Data:
+
+Personal and business information (name, contact details, business registration details)
+Login credentials (username, password)
+Payment and banking information for transactions
+Preferences and settings
+Listing Data:
+
+Product/service details (name, description, category)
+Pricing information (regular price, sale price, discount options)
+Inventory quantities
+Images and videos of products
+Shipping options and policies
+Order Data:
+
+Order details (order number, product details, quantities)
+Customer information (for shipping purposes)
+Order status and tracking information
+Payment status
+Sales and Analytics Data:
+
+Sales history (items sold, revenue generated)
+Views and engagement metrics for listings
+Customer feedback and ratings
+Performance analytics (best-selling products, peak sales periods)
+Customer Interaction Data:
+
+Customer inquiries and messages
+Reviews and responses
+Dispute and resolution records
+
+Data Needed for Guest Users
+Browsing Data:
+
+Session information (to remember search and filter preferences during the visit)
+Viewed products and categories
+IP address for regional pricing or offers
+Interaction Data:
+
+Product likes and saves (if the platform allows saving favorites without an account)
+Search queries
+Newsletter Subscription Data:
+
+Email address (for sending newsletters or deal alerts)
+Subscription preferences (types of deals interested in)
+Device and Preference Data:
+
+Device type and browser information (for optimizing the browsing experience)
+Language and currency preferences
+Feedback and Support Data:
+
+Feedback form submissions (if available)
+Support inquiries
+
+8.	Draft Merchant and Guest framework
+
+
+9.	Pull Request research
