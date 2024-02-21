@@ -52,3 +52,14 @@ Mitchell:
 --Explored potential interactions between buyer users and the website, considering usability and user experience
 --Identified necessary data to support buyer users, including account information, browsing history, and purchase preferences
 --Began drafting a framework to structure the app's features and functionalities around the needs of buyer users
+
+Homework 
+A pull request is a fundamental concept in software development, particularly in collaborative environments where multiple developers work on the same codebase. Here's a concise explanation:
+
+-- A pull request is a request made by a developer to merge their changes from a feature branch into the main branch of a repository.
+-- It serves as a mechanism for code review and collaboration, allowing team members to review the proposed changes, provide feedback, and suggest improvements before integrating them into the main codebase.
+-- Pull requests typically include a summary of the changes, relevant context, and any associated issues or tasks.
+-- Once a pull request is submitted, team members can review the code, leave comments, and discuss potential modifications.
+-- After the changes have been reviewed and approved, the pull request can be merged into the main branch, incorporating the new features or fixes into the project.
+
+Pull requests facilitate a structured and collaborative approach to managing code changes, ensuring quality, consistency, and transparency in the development process.
