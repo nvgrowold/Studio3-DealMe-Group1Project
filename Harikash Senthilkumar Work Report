@@ -6,25 +6,34 @@ Learn from Challenges:
 Recognize and celebrate achievements at the end of each sprint. Additionally, view challenges as opportunities for improvement.
 In conclusion, undertaking a group project using Agile methodology offers a structured yet flexible approach to software development. By adhering to Agile principles and practices, your team is poised to navigate the dynamic landscape of project requirements and stakeholder expectations.
 ########################################################################################################################################################
+20/02/2024
+
+Buyer Business Requirement
+Define the boundaries of the project, including what will be included and excluded
+Users should be able to register, log in, and manage their accounts securely.
+Organize products into categories and subcategories for easy navigation.
+Allow users to add/remove items, update quantities, and proceed to checkout.
+Calculate the total price, including taxes and shipping costs.
+Support various payment methods (credit/debit cards, PayPal, etc.).
+Ensure the website is accessible and user-friendly across devices (desktop, mobile, tablet).
+Buyer System Requirement
+Database Management System (DBMS): MySQL,
+Programming Languages:  HTML5, CSS3, JavaScript and also frameworks like React
+Version Control System: Git for managing codebase
+Load Testing: Conduct load testing to ensure the system can handle peak loads
 
 22/02/2024
 Buyer User stories 
+As a buyer, I want to easily search for products by category or keyword so that I can quickly find what I'm looking for.
+As a buyer, I want to see detailed product descriptions, including specifications, sizes, and materials, so that I can make informed purchasing decisions.
+As a buyer, I want to be able to view high-quality images of products from different angles to get a clear picture of what I'm buying.
+As a buyer, I want to read reviews and ratings from other customers to gauge the quality and reliability of the products before making a purchase.
+As a buyer, I want to add items to my shopping cart and easily adjust quantities or remove items as needed before proceeding to checkout.
+As a buyer, I want to have multiple secure payment options available, such as credit/debit card, PayPal, or other trusted methods, to complete my purchase.
+As a buyer, I want to track the status of my orders, including shipping updates and delivery estimates, so that I know when to expect my items.
+As a buyer, I want to have the option to create an account for faster checkout in the future and to easily track my order history and manage returns or exchanges.
+As a buyer, I want to receive personalized recommendations based on my past purchases and browsing history to discover new products that match my interests.
+As a buyer, I want to be able to contact customer support easily if I have any questions or concerns about my order or the products offered on the website
 
-1. User Registration and Authentication:
---Total number of registered buyers.
---Number of new registrations over a specified period.
---Authentication methods used (e.g., email, social media).
 
-2. Product Views:
---Most viewed products.
---Time spent on product pages.
---Correlation between product views and purchases.
 
-3. Cart and Checkout Activities:
---Abandonment rates at the cart and checkout stages.
---Popular payment methods.
---User feedback and comments during checkout.
-
-4. Product Preferences:
---Categories and types of products favored by buyers.
---Provide an overview of the e-commerce project, including its purpose, goals, and target audience.
