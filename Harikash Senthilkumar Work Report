@@ -6,4 +6,18 @@ Learn from Challenges:
 Recognize and celebrate achievements at the end of each sprint. Additionally, view challenges as opportunities for improvement.
 In conclusion, undertaking a group project using Agile methodology offers a structured yet flexible approach to software development. By adhering to Agile principles and practices, your team is poised to navigate the dynamic landscape of project requirements and stakeholder expectations.
 ########################################################################################################################################################
-21/02/2024
+22/02/2024
+1. User Registration and Authentication:
+Total number of registered buyers.
+Number of new registrations over a specified period.
+Authentication methods used (e.g., email, social media).
+2. Product Views:
+Most viewed products.
+Time spent on product pages.
+Correlation between product views and purchases.
+3. Cart and Checkout Activities:
+Abandonment rates at the cart and checkout stages.
+Popular payment methods.
+User feedback and comments during checkout.
+4. Product Preferences:
+Categories and types of products favored by buyers.
